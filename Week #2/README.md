@@ -4,10 +4,12 @@
 
 <br><h2 align='center'>Introduction & Problem Statement</h2>
 <p align='center'>
+  Danny created an 80's style delivery service called Pizza Runner. He needs to use data collection in order to get his business to grow and gather funding from investors.
 </p>
 
 <br><h2 align='center'>Entity Diagram</h2>
 <p align='center'>
+  There are 6 tables within one database that Danny has given access to.
 </p>
   
 <p align='center'>
@@ -21,7 +23,6 @@
 <br><h3 align='center'>Part A: Pizza Metrics</h3>
 1. How many pizzas were ordered?
 ```sql
-SELECT
 ```
 <table align='center'>
   <tr>
